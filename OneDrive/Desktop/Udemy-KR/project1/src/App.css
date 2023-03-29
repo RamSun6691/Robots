@@ -1,0 +1,17 @@
+/* @font-face{
+    font-family:"sega-logo-font";
+    src:url("https://candyfonts.com/wp-data/2019/02/21/12786/SEGA.TTF") format("woff"),
+    url("https://candyfonts.com/wp-data/2019/02/21/12786/SEGA.TTF") format("opentype"),
+    url("https://candyfonts.com/wp-data/2019/02/21/12786/SEGA.TTF") format("truetype"); */
+/* } */
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+    }
+h1 {
+    font-family:"SEGA LOGO FONT";
+    font-weight: 200;
+    color: #0ccac4;
+}
